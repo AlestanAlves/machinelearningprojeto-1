@@ -25,4 +25,12 @@ It differs from supervised learning in that labelled input/output pairs need not
 
 The environment is typically formulated as a Markov decision process (MDP), as many reinforcement learning algorithms for this context utilize dynamic programming techniques. The main difference between the classical dynamic programming methods and reinforcement learning algorithms is that the latter do not assume knowledge of an exact mathematical model of the MDP and they target large MDPs where exact methods become infeasible.
 
+
+
 ![top3](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.XZ6K_gI-MB19A30ooBc00gHaEL%26pid%3DApi&f=1)
+
+
+
+
+
+
